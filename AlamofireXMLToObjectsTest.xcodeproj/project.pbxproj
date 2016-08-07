@@ -17,6 +17,7 @@
 		798E91821D57ABA400C1C4E2 /* Response.swift in Sources */ = {isa = PBXBuildFile; fileRef = 798E91811D57ABA400C1C4E2 /* Response.swift */; };
 		798E91841D57AC4000C1C4E2 /* Qlist.swift in Sources */ = {isa = PBXBuildFile; fileRef = 798E91831D57AC4000C1C4E2 /* Qlist.swift */; };
 		798E91861D57AC6C00C1C4E2 /* FlightDetails.swift in Sources */ = {isa = PBXBuildFile; fileRef = 798E91851D57AC6C00C1C4E2 /* FlightDetails.swift */; };
+		798E91881D57B16A00C1C4E2 /* Aircraft.swift in Sources */ = {isa = PBXBuildFile; fileRef = 798E91871D57B16A00C1C4E2 /* Aircraft.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,6 +33,7 @@
 		798E91811D57ABA400C1C4E2 /* Response.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Response.swift; sourceTree = "<group>"; };
 		798E91831D57AC4000C1C4E2 /* Qlist.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Qlist.swift; sourceTree = "<group>"; };
 		798E91851D57AC6C00C1C4E2 /* FlightDetails.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FlightDetails.swift; sourceTree = "<group>"; };
+		798E91871D57B16A00C1C4E2 /* Aircraft.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Aircraft.swift; sourceTree = "<group>"; };
 		BAAF753819D5737D88BA3F7B /* Pods-AlamofireXMLToObjectsTest.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-AlamofireXMLToObjectsTest.release.xcconfig"; path = "Pods/Target Support Files/Pods-AlamofireXMLToObjectsTest/Pods-AlamofireXMLToObjectsTest.release.xcconfig"; sourceTree = "<group>"; };
 		C49F8DAFA793CB0192AF43CD /* Pods_AlamofireXMLToObjectsTest.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_AlamofireXMLToObjectsTest.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
@@ -80,6 +82,7 @@
 			children = (
 				79388D5B1D55C96A00CAC248 /* AppDelegate.swift */,
 				79388D5D1D55C96A00CAC248 /* ViewController.swift */,
+				798E91871D57B16A00C1C4E2 /* Aircraft.swift */,
 				79388D5F1D55C96A00CAC248 /* Main.storyboard */,
 				79388D621D55C96A00CAC248 /* Assets.xcassets */,
 				79388D641D55C96A00CAC248 /* LaunchScreen.storyboard */,
@@ -222,6 +225,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				798E91881D57B16A00C1C4E2 /* Aircraft.swift in Sources */,
 				798E91821D57ABA400C1C4E2 /* Response.swift in Sources */,
 				798E91801D57A94B00C1C4E2 /* Requestl.swift in Sources */,
 				798E91861D57AC6C00C1C4E2 /* FlightDetails.swift in Sources */,

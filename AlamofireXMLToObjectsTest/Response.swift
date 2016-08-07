@@ -12,11 +12,6 @@ import EVReflection
 class Response: EVObject {
     
     var __name : Requestl!
-    var qlist : [FlightDetails]!
-    
-//    override func initValidation(dict: NSDictionary) {
-//        print("dictionary to parse : \(dict)")
-//    }
-
+    var qlist : [Aircraft]!//[FlightDetails]!
 
 }

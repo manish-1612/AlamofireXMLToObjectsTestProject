@@ -69,8 +69,6 @@ class FlightDetails: EVObject {
     var fbnam : [String]!
     var fbadd1 : String!
     var fbphon : String!
+
     
-//    override func initValidation(dict: NSDictionary) {
-//        print("qlist details dict : \(dict)")
-//    }
 }

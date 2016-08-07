@@ -18,7 +18,7 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view, typically from a nib.
         
         
-        let requestURl = "http://12.27.233.216:8125/pgms/rvimainnhx.pgm?host=12.27.233.216:8125&rqstyp=showxmlrqa&dev=$00046728&"
+        let requestURl = "http://12.27.233.216:8125/pgms/rvimainnhx.pgm?host=12.27.233.216:8125&rqstyp=showxmlpaa&dev=$00046728&"//"http://12.27.233.216:8125/pgms/rvimainnhx.pgm?host=12.27.233.216:8125&rqstyp=showxmlrqa&dev=$00046728&"
         
         
         Alamofire.request(.GET, requestURl)

@@ -12,8 +12,6 @@ import EVReflection
 class Qlist: EVObject {
     
     var qlist : [FlightDetails]!
+
     
-//    override func initValidation(dict: NSDictionary) {
-//        print("qlist dictionary: \(dict)")
-//    }
 }

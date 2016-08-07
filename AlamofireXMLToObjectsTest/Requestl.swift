@@ -11,7 +11,4 @@ import EVReflection
 
 class Requestl: EVObject {
 
-//    override func initValidation(dict: NSDictionary) {
-//        print("request dic : \(dict)")
-//    }
 }
