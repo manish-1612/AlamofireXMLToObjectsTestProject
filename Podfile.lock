@@ -1,0 +1,21 @@
+PODS:
+  - Alamofire (3.4.1)
+  - AlamofireXmlToObjects (1.2.0):
+    - Alamofire
+    - EVReflection
+    - XMLDictionary
+  - EVReflection (2.44.0)
+  - XMLDictionary (1.4)
+
+DEPENDENCIES:
+  - AlamofireXmlToObjects
+
+SPEC CHECKSUMS:
+  Alamofire: 01a82e2f6c0f860ade35534c8dd88be61bdef40c
+  AlamofireXmlToObjects: 350a3d24e24fe836904598d276080d9519f978cf
+  EVReflection: 290a7feb1f32d7dbb8f9c4234609d75ceba97da4
+  XMLDictionary: f9f51601ba76678b594ab485f2b00ec1fed23724
+
+PODFILE CHECKSUM: e4ef4e97f05b700182b3d80787139bc7dba18a14
+
+COCOAPODS: 1.0.1
